@@ -1,6 +1,6 @@
-### Hi there 👋, Ruhul Amin
-#### Mern Stack Developer
-![Mern Stack Developer](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/273279327_4673982242723682_6789863815663852629_n.jpg?_nc_cat=106&cb=99be929b-59f725be&ccb=1-7&_nc_sid=be3454&_nc_eui2=AeGoXnPYn5cFBo7H1Z7TxshJPqpldcldWzI-qmV1yV1bMiLbdGHue1l5fQgpdtZu874Stwo3NYO-lBGgI9Ky1EcP&_nc_ohc=aP49Pon0EH4AX_A81Nt&_nc_oc=AQkWYs7Q93KuImIUZ_-YoJxxyxJkUOQP9fmovpitYUJ_HajdWwxLUw8SP5lNdsxrHSc&_nc_ht=scontent.fdac157-1.fna&oh=00_AfCjoLKyyM-qWjYj7g9yw5OPAkrYuAzIEtfgZYDc24BVSA&oe=64DC6C26)
+# Hi there 👋, Ruhul Amin
+## Mern Stack Developer
+![Mern Stack Developer]
 
 Like to love creating new Things. 
 
