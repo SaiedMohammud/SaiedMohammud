@@ -1,7 +1,5 @@
-# Hi there 👋, Ruhul Amin
-## Mern Stack Developer
-![Mern Stack Developer]
-
+### Hi there 👋, Ruhul Amin
+#### Mern Stack Developer
 Like to love creating new Things. 
 
 Skills: REACT / JS / HTML / CSS
@@ -14,10 +12,7 @@ Skills: REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaiedMohammud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SaiedMohammud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saiedruhul)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaiedMohammud)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub metrics](https://metrics.lecoq.io/SaiedMohammud)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SaiedMohammud)  
 
-![Profile views](https://gpvc.arturio.dev/SaiedMohammud)  
